@@ -63,8 +63,8 @@ set_progress_background(base_background_color)
 @table_head_fill_color = base_dark_background_color
 
 add_image_path("rabbit-images")
-@image_slide_number_image ||= "mini-nyanko.png"
-@image_timer_image ||= "mini-sakana.png"
+@image_slide_number_image ||= "keisatu.png"
+@image_timer_image ||= "dorobou.png"
 @image_slide_number_start_flag_color = base_color
 @image_slide_number_goal_flag_color = base_dark_background_color
 @image_slide_number_text_color = "black"
